@@ -16,7 +16,7 @@ manual installation:
 - click on 3 vertical dots
 - click "create new style"
 - under "mozilla format" click "import"
-- copy & paste from []() file
+- copy & paste from [twitch_communist.user.css](https://raw.githubusercontent.com/hktr92/twitch-communist-theme/main/twitch_communist.user.css) file
 - click "overwrite style"
 - click "save"
 - enjoy your new twitch theme!
